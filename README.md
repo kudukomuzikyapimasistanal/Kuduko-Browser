@@ -1,13 +1,20 @@
-KUDUKO - Müzik yapımı yerleşik tarayıcı
+KUDUKO - Müzik yapımı yerleşik tarayıcı (masaüstü)
 
-EN KOLAY YOL:
-1) Node.js kur (https://nodejs.org - LTS)
-2) Zip'i bir klasöre çıkar (zip içinden çalıştırma!)
-3) EXE-OLUSTUR.bat dosyasına çift tıkla
-4) Bittiğinde dist-exe\Kuduko-win32-x64\Kuduko.exe hazırdır
+EXE OLUŞTURMA (Windows, Node.js gerekli: https://nodejs.org - LTS):
+1) Zip'i bir klasöre çıkar (zip içinden çalıştırma!)
+2) EXE-OLUSTUR.bat dosyasına çift tıkla
+3) Bittiğinde dist-exe\Kuduko-win32-x64\Kuduko.exe hazırdır
 
-Kurulum (Setup) dosyası istersen: komut satırında  npm run build
-Denemek için: npm start
+Node.js kurmak istemezsen: klasörü GitHub'a yükle -> Actions sekmesi ->
+"Kuduko Windows EXE" -> Run workflow. Bitince Artifacts'tan Kuduko-win.zip indir.
 
-Kısayollar: Arama sonuçları Kuduko'nun kendi sayfasında açılır (DuckDuckGo + Vikipedi, internet gerekir)
-Kısayollar: Ctrl+T yeni sekme, Ctrl+W kapat, Ctrl+L adres çubuğu
+SİTE ERİŞİMİ (Google, YouTube, Instagram dahil):
+- Çerçeve/gömme engelleri (X-Frame-Options, CSP frame-ancestors) kaldırıldı
+- Siteler Chrome olarak görür (UA + Client Hints + navigator.userAgentData)
+- Ana sayfada Google, YouTube, Instagram kısayolları var
+- Konum, mikrofon, kamera, bildirim izinleri engellenmez
+- Ulaşılamayan sayfada "Yeniden dene" sayfası açılır
+- Güvenlik için sertifika hatalı (geçersiz https) siteler yine engellenir
+
+Kısayollar: Ctrl+T, Ctrl+W, Ctrl+N, Ctrl+Shift+N, Ctrl+L, Ctrl+F, Ctrl+H, Ctrl+J, Ctrl+P, F11
+Menü: adres çubuğunun sağındaki ⋯
