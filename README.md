@@ -16,5 +16,15 @@ SİTE ERİŞİMİ (Google, YouTube, Instagram dahil):
 - Ulaşılamayan sayfada "Yeniden dene" sayfası açılır
 - Güvenlik için sertifika hatalı (geçersiz https) siteler yine engellenir
 
+Arama sekmeleri: Kuduko AI (yapay zekâ sohbeti; Ayarlar’dan sağlayıcı seç), Tümü, Görseller, Videolar, Kısa videolar, Haberler, Alışveriş, Kitaplar, Akademik + Araçlar (zaman, dil)
+İndirmeler: Ctrl+J ile tam sayfa (kategoriler, arama, klasörde göster, Geri Dönüşüm Kutusu'na sil)
 Kısayollar: Ctrl+T, Ctrl+W, Ctrl+N, Ctrl+Shift+N, Ctrl+L, Ctrl+F, Ctrl+H, Ctrl+J, Ctrl+P, F11
 Menü: adres çubuğunun sağındaki ⋯
+
+YENİ (v1.5):
+- Müzik stüdyosu kaldırıldı. Sekmelerde × işareti başlığın hemen yanında.
+- Hesap: adres çubuğunun sağındaki avatar düğmesinden kayıt ol / oturum aç. Hesaplar bu bilgisayarda saklanır
+  (parola PBKDF2 ile şifrelenir, sıfırlanamaz). Geçmiş, sık kullanılanlar, ayarlar, arka plan ve indirme listesi hesaba özeldir.
+- Ayarlar > Görünüm > "Bilgisayardan seç…" ile ana sayfa arka planı değiştirilir.
+- Menü: alt menüler fareyle düzgün çalışıyor; klavye ile ↑ ↓ → ← Home End Enter Esc.
+- İndirmeler sayfasında adres alanı kaldırıldı, yalnızca indirilenler listelenir.
