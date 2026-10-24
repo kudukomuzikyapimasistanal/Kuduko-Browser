@@ -31,12 +31,7 @@ YENİ (v1.5):
 
 YENİ (v1.6):
 - Profil düzenleme: avatar menüsü > Profili düzenle (fotoğraf, görünen ad, kullanıcı adı, e-posta, parola değiştirme).
-- Sesli komut: adres çubuğu, ana sayfa ve sonuç sayfasındaki 🎤 düğmesi; söylediğin metni arar.
-- Kuduko AI: 🎤 sesle sor, 📞 sesli arama, 🎥 görüntülü arama (kamera karesi modele gönderilir), 🔊 yanıtı sesli oku.
 - Bağlantı tanısı ve yapay zekâ servisi ulaşılamazsa kaynaklardan özet.
-SESLİ TANIMA NOTU (masaüstü): Electron'da tarayıcının yerleşik ses tanıması çalışmaz. Masaüstünde sesli komut ve
-sesli/görüntülü arama için Kuduko AI > Ayarlar'dan OpenAI uyumlu (OpenAI, Groq) ya da Gemini API anahtarı ekle.
-Sesli okuma (TTS) Windows'un kendi sesleriyle çalışır.
 
 YENİ (v1.7):
 - Arama sonuçlarının altında sayfa numaraları: ‹ Önceki 1 2 3 … Sonraki › (Tümü, Görseller, Videolar, Haberler, Kitaplar, Akademik).
