@@ -37,3 +37,7 @@ YENİ (v1.6):
 SESLİ TANIMA NOTU (masaüstü): Electron'da tarayıcının yerleşik ses tanıması çalışmaz. Masaüstünde sesli komut ve
 sesli/görüntülü arama için Kuduko AI > Ayarlar'dan OpenAI uyumlu (OpenAI, Groq) ya da Gemini API anahtarı ekle.
 Sesli okuma (TTS) Windows'un kendi sesleriyle çalışır.
+
+YENİ (v1.7):
+- Arama sonuçlarının altında sayfa numaraları: ‹ Önceki 1 2 3 … Sonraki › (Tümü, Görseller, Videolar, Haberler, Kitaplar, Akademik).
+  Sayfa başına 10 sonuç; sonraki sonuçlar gerektikçe DuckDuckGo'dan alınır, Vikipedi kipinde gerçek sayfalama yapılır.
