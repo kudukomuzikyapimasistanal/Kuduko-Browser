@@ -36,3 +36,7 @@ YENİ (v1.6):
 YENİ (v1.7):
 - Arama sonuçlarının altında sayfa numaraları: ‹ Önceki 1 2 3 … Sonraki › (Tümü, Görseller, Videolar, Haberler, Kitaplar, Akademik).
   Sayfa başına 10 sonuç; sonraki sonuçlar gerektikçe DuckDuckGo'dan alınır, Vikipedi kipinde gerçek sayfalama yapılır.
+
+YENİ (v1.8):
+- Yapay zekâ sağlayıcı adları sadeleşti: "Kuduko AI (ücretsiz, anahtarsız)" ve "Kuduko AI (anahtarlı)".
+- Kuduko AI köprüsü yüklenemezse sohbet yine de doğrudan tarayıcıdan çalışır (ek özellik gerekmez).
